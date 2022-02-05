@@ -16,6 +16,9 @@ Es war unser Ziel ein Lineares Textbasiertes Spiel zu erstellen um jedermann 5 �
 
 ## Qualitätsanforderungen
 
+-	Das Spiel sollte nicht länger als 10 Minuten dauern. 
+-	Das Spiel soll nicht abstürzen. 
+-	Das Spiel soll ohne Erklärung spielbar sein.
 
 ## Randbedingungen
 *Anforderungen, Vorgaben, welche das Team beim Design der Software einschränkt* 

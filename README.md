@@ -32,6 +32,7 @@ Beschreibung: der Player startet das Spiel und navigiert sich anschliessend durc
 - Das Spiel soll auf allen Windows betriebenen Computern laufen.
 
 # Verteilungssicht
-*Verteilungsdiagramm + Beschreibung*
+
+![Verteilungs Diagramm Hockeymatch](Verteilungssicht_Diagramm_V1.png)
 
 # Glossar

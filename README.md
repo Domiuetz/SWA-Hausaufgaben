@@ -17,7 +17,7 @@ Beschreibung: der Player Spiel den HockeyMatch. Das Spiel läuft
 # Anforderungen
 ## Funktionale Anforderungen
 
-![UseCase Diagramm HockeyMatch](Use_Case_Diagramm_SWA_V3.png)
+![UseCase Diagramm HockeyMatch](Use_Case_Diagramm_SWA_V4.png)
 
 Beschreibung: der Player startet das Spiel und navigiert sich anschliessend durch die verschiedenen Fragen durch den Spielverlauf. Bei einer falschen Eingabe beginnt man von Anfang an. Der Player kann das Spiel jederzeit beenden. 
 

@@ -21,13 +21,13 @@ Beschreibung: der Player Spiel den HockeyMatch. Das Spiel läuft
 
 Beschreibung: der Player startet das Spiel und navigiert sich anschliessend durch die verschiedenen Fragen durch den Spielverlauf. Bei einer falschen Eingabe beginnt man von Anfang an. Der Player kann das Spiel jederzeit beenden. 
 
-Step1. Der Player startet das Spiel
-Step2. HockeyMatch stellt dem Player Fragen
-Step3. Der Player beantwortet die Frage.
-Step4a. HockeyMatch stellt die nächste Frage --> Step 3.
-Step4b. HockeyMatch hat keine Fragen mehr und fragt den Player ob dieser nochmals spielen möchte
-Step5a. Der Player antwortet Ja --> Step 2.
-Step5b. Der Player antwortet Nein -> Das Spiel endet.
+- Step1. Der Player startet das Spiel
+- Step2. HockeyMatch stellt dem Player Fragen
+- Step3. Der Player beantwortet die Frage.
+- Step4a. HockeyMatch stellt die nächste Frage --> Step 3.
+- Step4b. HockeyMatch hat keine Fragen mehr und fragt den Player ob dieser nochmals spielen möchte
+- Step5a. Der Player antwortet Ja --> Step 2.
+- Step5b. Der Player antwortet Nein -> Das Spiel endet.
 
 ## Qualitätsanforderungen
 

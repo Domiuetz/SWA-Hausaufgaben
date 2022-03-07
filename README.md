@@ -41,6 +41,6 @@ Beschreibung: der Player startet das Spiel und navigiert sich anschliessend durc
 
 # Verteilungssicht
 
-![Verteilungs Diagramm Hockeymatch](Verteilungssicht_Diagramm_V1.png)
+![Verteilungs Diagramm Hockeymatch](Verteilungssicht_Diagramm_V2.png)
 
 # Glossar
